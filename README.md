@@ -8,6 +8,8 @@ This tool provides a convenient way to define normal-form game-theoretic situati
 * [typesafe/config 1.2.0](https://github.com/typesafehub/config)
 + [Gamut 1.0.1](http://gamut.stanford.edu)
 
+The source code is found at [https://github.com/JZschache/NetLogo-Extensions](https://github.com/JZschache/NetLogo-Extensions)
+
 Since ql is an extension of NetLogo, the latter must be installed first ([NetLogo 5.2.1](https://ccl.northwestern.edu/netlogo/5.2.1/)). 
 
 The games-extension is installed by creating a directory named `games` in the `extensions` subdirectory of the `NetLogo` program. All files from 
