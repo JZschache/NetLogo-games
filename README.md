@@ -33,3 +33,5 @@ If the games-extension is used in combination with the ql-extension, the jars `g
     }
 
 After starting NetLogo, a sample model from `NetLogo-games/models` can be loaded, e.g. `NetLogo-games/models/two-pers-games.nlogo`.
+
+For more information see [gamesextension.pdf](https://github.com/JZschache/NetLogo-games/blob/master/gamesextension.pdf)
